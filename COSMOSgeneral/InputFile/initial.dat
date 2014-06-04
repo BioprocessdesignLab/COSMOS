@@ -1,0 +1,42 @@
+1
+
+7 12 4 4
+
+10
+10
+1
+10
+10
+10
+1
+   
+0.25     
+0.25
+0.63
+0.63
+11.6
+1.6
+1.6
+0.43
+4
+0.7
+7.4
+0.36
+
+
+
+//(Flag for the execution of integration using numerical methods. 0; not executed, 1; explicit Runge-Kutta method, 2; implicit Euler method)
+
+//(Total number of dependent variables) (Total number of independent variables) (Maximum number of influxes) (Maximum number of effluxes)
+
+//The first dependent variable value
+//    :                :
+//    :                :
+//    :                :
+//The last dependent variable value
+
+//The first independent variable value
+//    :                :
+//    :                :
+//    :                :
+//The last independent variable value
