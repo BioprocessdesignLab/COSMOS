@@ -1,0 +1,16 @@
+
+
+	sprn=1;         // The calculation for S-system is executed if the value is unity.    
+	gmaprn=1;       // The calculation for GMA-system is executed if the value is unity. 
+	    
+	// S-system printing
+	prns[0]=1;      // The steady-state concentrations are output in the file "ssystem.dat", if the value is unity.
+	prns[1]=1;      // The S-system parameters are output in the file "ssystem.dat", if the value is unity.
+	prns[2]=1;      // The logarithmic gains for metabolite concentrations and net fluxes are output in the file "ssystem.dat", if the value is unity.
+	prns[3]=1;      // The S-system description fime for PLAS is output in the file "plasfile(ssystem).plc", if the value is unity.
+
+	// GMA-system printing
+	prng[0]=1;      // The steady-state concentrations are output in the file "gmasystem.dat", if the value is unity.
+	prng[1]=1;      // The GMA-system parameters are output in the file "gmasystem.dat", if the value is unity.
+	prng[2]=1;      // The logarithmic gains for metabolite concentrations and net fluxes are output in the file "gmasystem.dat", if the value is unity.
+	prng[3]=1;      // The GMA-system description fime for PLAS is output in the file "plasfile(gmasystem).plc", if the value is unity.
