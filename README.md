@@ -1,4 +1,4 @@
-This software, named **COSMOS** (Computation of S ensitivities in Model ODE Systems), is the computer program developed for calculating sensitivity values at a steady state in metabolic reaction networks with nonlinear flux equations. 
+This software, named **COSMOS** (Computation of Sensitivities in Model ODE Systems), is the computer program developed for calculating sensitivity values at a steady state in metabolic reaction networks with nonlinear flux equations. 
 
 The highly-accurate (i.e., highly-reliable) calculation is executed by a combination of the systematic calculation algorithm in Biochemical Systems Theory and the complex-step differentiation, providing sensitivity values in the range of round-off errors.
 
